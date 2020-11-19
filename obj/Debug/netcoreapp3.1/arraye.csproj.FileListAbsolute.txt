@@ -1,0 +1,13 @@
+C:\Users\nilma\Desktop\arraye\bin\Debug\netcoreapp3.1\arraye.exe
+C:\Users\nilma\Desktop\arraye\bin\Debug\netcoreapp3.1\arraye.deps.json
+C:\Users\nilma\Desktop\arraye\bin\Debug\netcoreapp3.1\arraye.runtimeconfig.json
+C:\Users\nilma\Desktop\arraye\bin\Debug\netcoreapp3.1\arraye.runtimeconfig.dev.json
+C:\Users\nilma\Desktop\arraye\bin\Debug\netcoreapp3.1\arraye.dll
+C:\Users\nilma\Desktop\arraye\bin\Debug\netcoreapp3.1\arraye.pdb
+C:\Users\nilma\Desktop\arraye\obj\Debug\netcoreapp3.1\arraye.csprojAssemblyReference.cache
+C:\Users\nilma\Desktop\arraye\obj\Debug\netcoreapp3.1\arraye.AssemblyInfoInputs.cache
+C:\Users\nilma\Desktop\arraye\obj\Debug\netcoreapp3.1\arraye.AssemblyInfo.cs
+C:\Users\nilma\Desktop\arraye\obj\Debug\netcoreapp3.1\arraye.csproj.CoreCompileInputs.cache
+C:\Users\nilma\Desktop\arraye\obj\Debug\netcoreapp3.1\arraye.dll
+C:\Users\nilma\Desktop\arraye\obj\Debug\netcoreapp3.1\arraye.pdb
+C:\Users\nilma\Desktop\arraye\obj\Debug\netcoreapp3.1\arraye.genruntimeconfig.cache
